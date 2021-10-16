@@ -23,14 +23,14 @@ Deliverables
 
 
 	
-Report outlining your proposed solution.
+1. Report outlining your proposed solution.
 	
-Sequence diagrams showing how to navigate the university object model to deliver performance metrics needed for performance and feedback.
+2. Sequence diagrams showing how to navigate the university object model to deliver performance metrics needed for performance and feedback.
 
 
 
 	
-A class diagram showing the changes to the university model to support the new capabilities. This diagram must include the additional methods and attributes required to deliver the results.
+*. A class diagram showing the changes to the university model to support the new capabilities. This diagram must include the additional methods and attributes required to deliver the results.
 
 
  
